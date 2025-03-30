@@ -2,7 +2,7 @@ import {  useState } from 'react';
 import './App.css'
 import ImageHandler from './Components/ImageHandler.jsx';
 function App() {
-  
+  // apps js
 
   const [username, setUsername] = useState(null)
   const [quote, setQuote] = useState(null)
