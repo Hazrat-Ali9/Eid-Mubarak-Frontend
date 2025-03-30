@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+body{
+    background-image: linear-gradient(#996f5ed0, #d6ccc3f3), url('../public/assets/eidcard\ \(3\).png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-family: "Poppins", sans-serif;
+
+}
